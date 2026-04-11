@@ -206,4 +206,4 @@ After running `node seed.js`:
 
 ---
 
-*Made with ❤️ by a B.Tech CSE Student | MERN Stack*
+*Made with ❤️ by Abhishek meena 
