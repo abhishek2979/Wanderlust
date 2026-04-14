@@ -1,10 +1,6 @@
-# 🌍 Wanderlust - MERN Stack Project
+# Wanderlust - MERN Stack Project
 
-> An Airbnb-inspired travel listing web app built with the **MERN Stack**
-> 
-> **B.Tech CSE Final Year Project**
-
----
+> An travel listing web app built with the **MERN Stack**
 
 ## 🛠️ Tech Stack
 
@@ -77,14 +73,6 @@ wanderlust-mern/
 - Node.js (v18+)
 - MongoDB (local or Atlas)
 - Cloudinary account (for image uploads)
-
----
-
-### 1️⃣ Clone / Extract the project
-
-```bash
-cd wanderlust-mern
-```
 
 ---
 
